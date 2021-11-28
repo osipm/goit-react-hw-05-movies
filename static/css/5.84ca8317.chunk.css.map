@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/component/MoviesPage/MoviePage.module.css"],"names":[],"mappings":"AAAA,4BACE,YAAa,CACb,kBAAmB,CACnB,+BACF","file":"5.84ca8317.chunk.css","sourcesContent":[".conteiner {\n  padding: 20px;\n  margin-bottom: 15px;\n  border-bottom: 1px solid #2a363b;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/component/HomePage/HomePage.module.css"],"names":[],"mappings":"AAAA,sBACE,YAAa,CACb,eAAgB,CAChB,cACF","file":"4.01491518.chunk.css","sourcesContent":[".link {\n  padding: 15px;\n  font-weight: 500;\n  font-size: 15px;\n}\n"]}
