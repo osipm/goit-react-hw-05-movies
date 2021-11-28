@@ -1,0 +1,18 @@
+.navigation {
+  padding: 20px;
+  border-bottom: 1px solid #2a363b;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 500;
+  color: black;
+  font-size: 18px;
+}
+
+.activeLink {
+  composes: link;
+  color: #2196f3;
+}
