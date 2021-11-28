@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 
 export default function Reviews({ movieId }) {
   const [reviews, setReviews] = useState([]);

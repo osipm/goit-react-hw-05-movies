@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 const ImgUrl = 'https://image.tmdb.org/t/p/w200';
 export default function Cast({ movieId }) {
   const [casts, setCast] = useState(null);

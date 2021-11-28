@@ -2,7 +2,7 @@ import { useState } from 'react';
 import s from './MovieDetailsPage.module.css';
 
 import { useParams, Route, Routes, Link, useLocation } from 'react-router-dom';
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 import Cast from '../Cast/Cast';
 import Reviews from '../Reviews/Reviews';
 import AdditionalInformation from '../AdditionalInformation/AdditionalInformation';

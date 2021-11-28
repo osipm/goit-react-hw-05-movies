@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 import s from './MoviePage.module.css';
 export default function MoviesPage() {
   const from = useLocation();
